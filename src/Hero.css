@@ -1,0 +1,12 @@
+.hero__btn {
+  background-color: #29029a;
+  color: white;
+  @apply p-3 pl-7 w-48 pr-7 rounded-lg shadow-lg;
+}
+
+.hero__btnOutlined {
+  color: #29029a;
+  border: 3px solid #29029a;
+  background-color: white;
+  @apply p-2 pl-7 w-48 pr-7 rounded-lg shadow-lg;
+}
